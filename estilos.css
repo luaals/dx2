@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+body{
+    background-color: rgb(119, 16, 140);
+    /* background-image: url(https://dkrn4sk0rn31v.cloudfront.net/uploads/z2018/09/09011822/capa-linguagens-em-alta.jpg); */
+    color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+   
+}
+button{
+    align-items: flex-center;
+    width: 100px;
+    height: 100px;
+    color: rgb(0, 0, 0);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    background-color: rgb(175, 110, 235);
+    
+}
+#pond {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  background-color: rgb(2, 92, 133);
+}
+
+
+  
